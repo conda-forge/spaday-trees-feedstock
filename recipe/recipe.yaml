@@ -1,5 +1,5 @@
 context:
-  version: "0.2.0"
+  version: "0.2.1"
   python_min: "3.11"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spaday-trees/spaday_trees-${{ version }}.tar.gz
-  sha256: 64c1d3c5c4a73a5830b344aee4da42399f31d510c98d4f6b7d5c5ed4b13a773e
+  sha256: ef5ebffcde2aea103334f4b7535f3dd9bf47d63fc1ac9a13892f927943e4f9b8
 
 build:
   number: 0
